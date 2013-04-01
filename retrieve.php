@@ -27,7 +27,7 @@
 			<h1><a href="index.html">StudyBuddy</a><span>|choose</span></h1>
 			<div id = "container main">
 				<?php
-				$con = mysql_connect("localhost","stevenbu_admin","f@cebook");
+				$con = mysql_connect("localhost",REDACTED,REDACTED);
 				if (!$con)
 				{
 					die('Could not connect: ' . mysql_error());

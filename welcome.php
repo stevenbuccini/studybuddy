@@ -54,7 +54,7 @@ $isvalid = check_email_address($to);
 if ($isvalid == true){
 
 //connect to server to pull data for autoemailer
-$con = mysql_connect("localhost", "stevenbu_admin", "f@cebook");
+$con = mysql_connect("localhost", REDACTED, REDACTED);
 
 if (!$con){
 
@@ -62,7 +62,7 @@ if (!$con){
     
 }
 
-mysql_select_db("stevenbu_studybuddy", $con);
+mysql_select_db(REDACTED, $con);
 
 $row_id = $_POST['id'];
 $result = mysql_query("SELECT * FROM Groups WHERE ID = '$row_id'");
