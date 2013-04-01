@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">
+		<title>StudyBuddy </title>
+		<LINK REL=StyleSheet HREF="bootstrap/css/bootstrap.css" TYPE="text/css" MEDIA=screen>
+		<link rel="stylesheet" type="text/css" href="styles.css" MEDIA=screen >
+		<script src="jquery.js"></script>
+		<script src="bootstrap/js/bootstrap.js"></script>
+		<script src="script.js"></script>
+	</head>
+	<body>
+		<div id="wrapper">
+			<h1><a href="index.html">StudyBuddy</a><span>|find</span></h1>
+			<div id="main" >
+				<form action="retrieve.php" method="post">
+					I want to study for 
+					<input id="departments" name="dept" type="text" onblur="cChange();" data-provide="typeahead" data-items="10" data-minLength="3" placeholder="Department" autocomplete="off">
+					<input id="courses"  name="course" onfocus="cChange();" onclick="cChange();" type="text" data-provide="typeahead" data-items="10" data-minLength="1" placeholder="Course" autocomplete="off"> on 
+					<select name="day">
+						<option value="Monday">Monday</option>
+						<option value="Tuesday">Tuesday</option>
+						<option value="Wednesday">Wednesday</option>
+						<option value="Thursday">Thursday</option> 
+						<option value="Friday">Friday</option>
+						<option value="Saturday">Saturday</option>
+						<option value="Sunday">Sunday</option>
+					</select>
+					<br />
+					at <input id="times" type="text" data-provide="typeahead" data-items="5" data-minLength="1" placeholder="Time" name="time" autocomplete="off">
+					<select name="ampm" width="wrap-content">
+						<option value="AM">AM</option>
+						<option value="PM">PM</option>
+					</select>
+					<br />
+					<br />
+					<br />
+					<input type="submit" value="Find Groups" class="btn btn-primary" />
+				</form>
+				<p> <a href="create.html"> ...or create a group!</a></p>
+			</div>
+		</div>
+	</body>
+</html>

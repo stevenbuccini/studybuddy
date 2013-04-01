@@ -1,0 +1,18 @@
+[13-Oct-2012 16:43:23 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/retrieve.php on line 80
+[13-Oct-2012 16:55:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/retrieve.php on line 49
+[13-Oct-2012 17:48:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 23
+[13-Oct-2012 19:35:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/welcome.php on line 102
+[31-Oct-2012 05:43:20 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 61
+[31-Oct-2012 05:43:41 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 78
+[31-Oct-2012 05:44:05 UTC] PHP Fatal error:  Function name must be a string in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 59
+[31-Oct-2012 05:58:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 93
+[31-Oct-2012 06:00:37 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 65
+[31-Oct-2012 06:01:05 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 65
+[31-Oct-2012 06:02:12 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 65
+[31-Oct-2012 06:05:05 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 66
+[31-Oct-2012 06:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 66
+[31-Oct-2012 06:10:50 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 65
+[31-Oct-2012 06:13:44 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 65
+[31-Oct-2012 06:15:35 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 66
+[31-Oct-2012 06:16:21 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 66
+[31-Oct-2012 06:16:24 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/stevenbu/public_html/studybuddy/ArjunStudyBuddy/create.php on line 66

@@ -1,0 +1,107 @@
+@font-face {
+	font-family: Franklin;
+	src: url('Univers_65_Bold.ttf');
+}
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: #dbdbdb;
+	margin: 0px;
+	margin-top: 35px;
+	padding: 0px;
+}
+
+h1 {
+	font-size: 400%;
+	text-decoration: none;
+	margin-bottom: 75px;
+	font-weight: bolder;
+}
+
+h1 a {
+	text-decoration: none;
+	color: #747474;
+	font-size: 115%;
+}
+
+h1 span {
+	color: #1D3E94;
+	font-weight: lighter;
+}
+
+#wrapper{
+	width: 1000px; 
+	margin: 0 auto;
+
+}
+
+#main {
+	text-align: center;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+#main p{
+	margin-right: 150px;
+	float: right;
+}
+
+a {
+	font-size: 75%;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #747474;
+}
+
+#main {
+	margin-top: 150px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+select {
+	width: auto;
+}
+
+#hor-minimalist-a
+{
+	font-size: 120%;
+	background: #dbdbdb;
+	margin: 45px auto;
+	border-collapse: collapse;
+	text-align: left;
+}
+#hor-minimalist-a th
+{
+	font-size: 120%;
+	font-weight: bold;
+	color: #039;
+	padding: 10px 8px;
+	border-bottom: 2px solid #1D3E94;
+}
+#hor-minimalist-a td
+{
+	color: #1D3E94;
+	padding: 9px 25px 0px 8px;
+}
+#hor-minimalist-a tbody tr:hover td
+{
+	color: #1D3E94;
+}
+
+h2 {
+	color: #000;
+}
+
+h2 a {
+	font-size: 115%;
+	text-decoration: none;
+}
+
+#plus {
+	font-weight: bolder;
+	font-size: 150%;
+}
